@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Bote de proteína ProteBros sabor Arroz con leche">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3e6c8"/><stop offset="1" stop-color="#d9c193"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#g)"/>
+  <g opacity="0.9"><ellipse cx="0" cy="60" rx="9" ry="4" transform="rotate(0 0 60)" fill="#fffaf0"/><ellipse cx="97" cy="113" rx="9" ry="4" transform="rotate(37 97 113)" fill="#fffaf0"/><ellipse cx="194" cy="166" rx="9" ry="4" transform="rotate(74 194 166)" fill="#fffaf0"/><ellipse cx="291" cy="219" rx="9" ry="4" transform="rotate(111 291 219)" fill="#fffaf0"/><ellipse cx="388" cy="272" rx="9" ry="4" transform="rotate(148 388 272)" fill="#fffaf0"/><ellipse cx="485" cy="325" rx="9" ry="4" transform="rotate(185 485 325)" fill="#fffaf0"/><ellipse cx="582" cy="378" rx="9" ry="4" transform="rotate(222 582 378)" fill="#fffaf0"/><ellipse cx="679" cy="101" rx="9" ry="4" transform="rotate(259 679 101)" fill="#fffaf0"/><ellipse cx="776" cy="154" rx="9" ry="4" transform="rotate(296 776 154)" fill="#fffaf0"/><ellipse cx="73" cy="207" rx="9" ry="4" transform="rotate(333 73 207)" fill="#fffaf0"/><ellipse cx="170" cy="260" rx="9" ry="4" transform="rotate(370 170 260)" fill="#fffaf0"/><ellipse cx="267" cy="313" rx="9" ry="4" transform="rotate(407 267 313)" fill="#fffaf0"/><ellipse cx="364" cy="366" rx="9" ry="4" transform="rotate(444 364 366)" fill="#fffaf0"/><ellipse cx="461" cy="89" rx="9" ry="4" transform="rotate(481 461 89)" fill="#fffaf0"/><ellipse cx="558" cy="142" rx="9" ry="4" transform="rotate(518 558 142)" fill="#fffaf0"/><ellipse cx="655" cy="195" rx="9" ry="4" transform="rotate(555 655 195)" fill="#fffaf0"/><ellipse cx="752" cy="248" rx="9" ry="4" transform="rotate(592 752 248)" fill="#fffaf0"/><ellipse cx="49" cy="301" rx="9" ry="4" transform="rotate(629 49 301)" fill="#fffaf0"/><ellipse cx="146" cy="354" rx="9" ry="4" transform="rotate(666 146 354)" fill="#fffaf0"/><ellipse cx="243" cy="77" rx="9" ry="4" transform="rotate(703 243 77)" fill="#fffaf0"/><ellipse cx="340" cy="130" rx="9" ry="4" transform="rotate(740 340 130)" fill="#fffaf0"/><ellipse cx="437" cy="183" rx="9" ry="4" transform="rotate(777 437 183)" fill="#fffaf0"/><ellipse cx="534" cy="236" rx="9" ry="4" transform="rotate(814 534 236)" fill="#fffaf0"/><ellipse cx="631" cy="289" rx="9" ry="4" transform="rotate(851 631 289)" fill="#fffaf0"/><ellipse cx="728" cy="342" rx="9" ry="4" transform="rotate(888 728 342)" fill="#fffaf0"/><ellipse cx="25" cy="65" rx="9" ry="4" transform="rotate(925 25 65)" fill="#fffaf0"/>
+    <rect x="590" y="70" width="18" height="190" rx="9" fill="#8a4f22" transform="rotate(25 600 160)"/><rect x="620" y="80" width="18" height="190" rx="9" fill="#a0612a" transform="rotate(25 630 170)"/></g>
+  
+  <g>
+    <ellipse cx="250" cy="406" rx="126.50000000000001" ry="18.400000000000002" fill="#000" opacity="0.25"/>
+    <rect x="129" y="64" width="242" height="42.00000000000001" rx="10" fill="#0d1210"/>
+    <rect x="135" y="100" width="230" height="300" rx="18.400000000000002" fill="#efe3c6"/>
+    <rect x="135" y="154" width="230" height="186" fill="#fbf6ea"/>
+    
+  <g transform="translate(250 190) scale(0.8846153846153846)">
+    <rect x="-46" y="-6" width="92" height="12" rx="6" fill="#a0612a"/>
+    <rect x="-58" y="-22" width="12" height="44" rx="4" fill="#a0612a"/>
+    <rect x="46" y="-22" width="12" height="44" rx="4" fill="#a0612a"/>
+    <rect x="-70" y="-14" width="10" height="28" rx="4" fill="#a0612a"/>
+    <rect x="60" y="-14" width="10" height="28" rx="4" fill="#a0612a"/>
+  </g>
+    <text x="250" y="229" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="27.599999999999998" fill="#5b3a1e">PROTEBROS</text>
+    <text x="250" y="268" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="19.55" fill="#a0612a">ARROZ</text>
+    <text x="250" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="19.55" fill="#a0612a">CON LECHE</text>
+    <rect x="167.2" y="307" width="165.6" height="21.000000000000004" rx="10.500000000000002" fill="#5b3a1e"/>
+    <text x="250" y="322" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="11.959999999999999" fill="#fbf6ea">PROTEÍNA EN POLVO</text>
+  </g>
+  <rect x="0" y="396" width="800" height="54" fill="#0d1210" opacity="0.82"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#ffffff">El postre de la abuela, en tu batido</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Vaso mezclador con batido de proteína junto a un bote ProteBros">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b5a43"/><stop offset="1" stop-color="#0d1210"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#g)"/>
+  <circle cx="60" cy="40" r="3" fill="#9be15d" opacity="0.5"/><circle cx="115" cy="65" r="4" fill="#9be15d" opacity="0.5"/><circle cx="170" cy="90" r="5" fill="#9be15d" opacity="0.5"/><circle cx="225" cy="40" r="3" fill="#9be15d" opacity="0.5"/><circle cx="280" cy="65" r="4" fill="#9be15d" opacity="0.5"/><circle cx="335" cy="90" r="5" fill="#9be15d" opacity="0.5"/><circle cx="390" cy="40" r="3" fill="#9be15d" opacity="0.5"/><circle cx="445" cy="65" r="4" fill="#9be15d" opacity="0.5"/><circle cx="500" cy="90" r="5" fill="#9be15d" opacity="0.5"/><circle cx="555" cy="40" r="3" fill="#9be15d" opacity="0.5"/><circle cx="610" cy="65" r="4" fill="#9be15d" opacity="0.5"/><circle cx="665" cy="90" r="5" fill="#9be15d" opacity="0.5"/><circle cx="720" cy="40" r="3" fill="#9be15d" opacity="0.5"/><circle cx="775" cy="65" r="4" fill="#9be15d" opacity="0.5"/>
+  <g transform="translate(480 70)">
+    <rect x="10" y="0" width="140" height="50" rx="12" fill="#0d1210"/><rect x="60" y="-24" width="40" height="30" rx="8" fill="#9be15d"/>
+    <path d="M0 50 H160 L145 330 H15 Z" fill="#ffffff" opacity="0.92"/>
+    <path d="M8 140 H152 L145 330 H15 Z" fill="#d9a066"/>
+    <path d="M8 140 Q40 125 80 140 T152 140" fill="#f1cf9f"/>
+    <circle cx="50" cy="200" r="6" fill="#f6e2c3"/><circle cx="100" cy="250" r="5" fill="#f6e2c3"/><circle cx="70" cy="290" r="4" fill="#f6e2c3"/>
+    
+  <g transform="translate(80 95) scale(0.45)">
+    <rect x="-46" y="-6" width="92" height="12" rx="6" fill="#0f3d2e"/>
+    <rect x="-58" y="-22" width="12" height="44" rx="4" fill="#0f3d2e"/>
+    <rect x="46" y="-22" width="12" height="44" rx="4" fill="#0f3d2e"/>
+    <rect x="-70" y="-14" width="10" height="28" rx="4" fill="#0f3d2e"/>
+    <rect x="60" y="-14" width="10" height="28" rx="4" fill="#0f3d2e"/>
+  </g>
+  </g>
+  
+  <g>
+    <ellipse cx="250" cy="406" rx="115.50000000000001" ry="16.8" fill="#000" opacity="0.25"/>
+    <rect x="139" y="86.4" width="222" height="39.2" rx="10" fill="#0d1210"/>
+    <rect x="145" y="120" width="210" height="280" rx="16.8" fill="#c8782a"/>
+    <rect x="145" y="170.4" width="210" height="173.6" fill="#fff1df"/>
+    
+  <g transform="translate(250 204) scale(0.8076923076923077)">
+    <rect x="-46" y="-6" width="92" height="12" rx="6" fill="#c8782a"/>
+    <rect x="-58" y="-22" width="12" height="44" rx="4" fill="#c8782a"/>
+    <rect x="46" y="-22" width="12" height="44" rx="4" fill="#c8782a"/>
+    <rect x="-70" y="-14" width="10" height="28" rx="4" fill="#c8782a"/>
+    <rect x="60" y="-14" width="10" height="28" rx="4" fill="#c8782a"/>
+  </g>
+    <text x="250" y="240.39999999999998" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="25.2" fill="#4a2a10">PROTEBROS</text>
+    <text x="250" y="276.8" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="17.85" fill="#c8782a">CHURRO</text>
+    <text x="250" y="299.20000000000005" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="17.85" fill="#c8782a">CON AZÚCAR</text>
+    <rect x="174.4" y="313.2" width="151.2" height="19.6" rx="9.8" fill="#4a2a10"/>
+    <text x="250" y="327.2" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="10.92" fill="#fff1df">PROTEÍNA EN POLVO</text>
+  </g>
+  <text x="560" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="22" fill="#ffffff">Se prepara en segundos</text>
+</svg>

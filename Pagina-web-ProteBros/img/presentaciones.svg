@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Presentaciones de ProteBros: muestra individual y botes de 300 gramos, 500 gramos y 1 kilogramo">
+  <rect width="800" height="450" fill="#0f3d2e"/>
+  <circle cx="650" cy="80" r="200" fill="#9be15d" opacity="0.10"/>
+  <g transform="translate(110 250)"><path d="M0 0 H90 L84 150 H6 Z" fill="#c8782a"/><rect x="0" y="0" width="90" height="16" fill="#0d1210"/>
+  <g transform="translate(45 60) scale(0.45)">
+    <rect x="-46" y="-6" width="92" height="12" rx="6" fill="#fff1df"/>
+    <rect x="-58" y="-22" width="12" height="44" rx="4" fill="#fff1df"/>
+    <rect x="46" y="-22" width="12" height="44" rx="4" fill="#fff1df"/>
+    <rect x="-70" y="-14" width="10" height="28" rx="4" fill="#fff1df"/>
+    <rect x="60" y="-14" width="10" height="28" rx="4" fill="#fff1df"/>
+  </g><text x="45" y="100" text-anchor="middle" font-family="Arial Black, Arial" font-size="13" font-weight="900" fill="#fff1df">MUESTRA</text></g>
+  
+  <g>
+    <ellipse cx="300" cy="406" rx="66" ry="9.6" fill="#000" opacity="0.25"/>
+    <rect x="234" y="220.8" width="132" height="22.400000000000002" rx="10" fill="#0d1210"/>
+    <rect x="240" y="240" width="120" height="160" rx="9.6" fill="#efe3c6"/>
+    <rect x="240" y="268.8" width="120" height="99.2" fill="#fbf6ea"/>
+    
+  <g transform="translate(300 288) scale(0.46153846153846156)">
+    <rect x="-46" y="-6" width="92" height="12" rx="6" fill="#a0612a"/>
+    <rect x="-58" y="-22" width="12" height="44" rx="4" fill="#a0612a"/>
+    <rect x="46" y="-22" width="12" height="44" rx="4" fill="#a0612a"/>
+    <rect x="-70" y="-14" width="10" height="28" rx="4" fill="#a0612a"/>
+    <rect x="60" y="-14" width="10" height="28" rx="4" fill="#a0612a"/>
+  </g>
+    <text x="300" y="308.8" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="14.399999999999999" fill="#5b3a1e">PROTEBROS</text>
+    <text x="300" y="329.6" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="10.200000000000001" fill="#a0612a">ARROZ</text>
+    <text x="300" y="342.4" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="10.200000000000001" fill="#a0612a">CON LECHE</text>
+    <rect x="256.8" y="350.4" width="86.39999999999999" height="11.200000000000001" rx="5.6000000000000005" fill="#5b3a1e"/>
+    <text x="300" y="358.4" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="6.239999999999999" fill="#fbf6ea">PROTEÍNA EN POLVO</text>
+  </g>
+  
+  <g>
+    <ellipse cx="460" cy="406" rx="82.5" ry="12" fill="#000" opacity="0.25"/>
+    <rect x="379" y="176" width="162" height="28.000000000000004" rx="10" fill="#0d1210"/>
+    <rect x="385" y="200" width="150" height="200" rx="12" fill="#f4dcb0"/>
+    <rect x="385" y="236" width="150" height="124" fill="#fff6e3"/>
+    
+  <g transform="translate(460 260) scale(0.5769230769230769)">
+    <rect x="-46" y="-6" width="92" height="12" rx="6" fill="#c58a3a"/>
+    <rect x="-58" y="-22" width="12" height="44" rx="4" fill="#c58a3a"/>
+    <rect x="46" y="-22" width="12" height="44" rx="4" fill="#c58a3a"/>
+    <rect x="-70" y="-14" width="10" height="28" rx="4" fill="#c58a3a"/>
+    <rect x="60" y="-14" width="10" height="28" rx="4" fill="#c58a3a"/>
+  </g>
+    <text x="460" y="286" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="18" fill="#6b4a1f">PROTEBROS</text>
+    <text x="460" y="312" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12.750000000000002" fill="#c58a3a">CONCHA</text>
+    <text x="460" y="328" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12.750000000000002" fill="#c58a3a">DE VAINILLA</text>
+    <rect x="406" y="338" width="108" height="14.000000000000002" rx="7.000000000000001" fill="#6b4a1f"/>
+    <text x="460" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="7.8" fill="#fff6e3">PROTEÍNA EN POLVO</text>
+  </g>
+  
+  <g>
+    <ellipse cx="650" cy="406" rx="101.75000000000001" ry="14.8" fill="#000" opacity="0.25"/>
+    <rect x="551.5" y="120" width="197" height="35" rx="10" fill="#0d1210"/>
+    <rect x="557.5" y="150" width="185" height="250" rx="14.8" fill="#8b4a22"/>
+    <rect x="557.5" y="195" width="185" height="155" fill="#fdf4ea"/>
+    
+  <g transform="translate(650 225) scale(0.7115384615384616)">
+    <rect x="-46" y="-6" width="92" height="12" rx="6" fill="#8b4a22"/>
+    <rect x="-58" y="-22" width="12" height="44" rx="4" fill="#8b4a22"/>
+    <rect x="46" y="-22" width="12" height="44" rx="4" fill="#8b4a22"/>
+    <rect x="-70" y="-14" width="10" height="28" rx="4" fill="#8b4a22"/>
+    <rect x="60" y="-14" width="10" height="28" rx="4" fill="#8b4a22"/>
+  </g>
+    <text x="650" y="257.5" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="22.2" fill="#4a2412">PROTEBROS</text>
+    <text x="650" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="15.725000000000001" fill="#8b4a22">ROL</text>
+    <text x="650" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="15.725000000000001" fill="#8b4a22">DE CANELA</text>
+    <rect x="583.4" y="322.5" width="133.2" height="17.5" rx="8.75" fill="#4a2412"/>
+    <text x="650" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="9.62" fill="#fdf4ea">PROTEÍNA EN POLVO</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="#9be15d" text-anchor="middle">
+    <text x="155" y="430">Muestra</text><text x="300" y="430">300 g</text><text x="460" y="430">500 g</text><text x="650" y="430">1 kg</text>
+  </g>
+</svg>

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ProteBros: proteína en polvo con sabores inspirados en postres y panes mexicanos.">
+  <title>Inicio | ProteBros</title>
+  <link rel="icon" type="image/svg+xml" href="img/logo.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <header class="sitio">
+    <div class="contenedor">
+      <a class="marca" href="index.html" aria-label="ProteBros, ir al inicio">
+        <img src="img/logo.svg" alt="Logotipo de ProteBros">
+        <span>PROTE<b>BROS</b></span>
+      </a>
+      <nav aria-label="Navegación principal">
+        <ul>
+        <li><a href="index.html" class="activo" aria-current="page">Inicio</a></li>
+        <li><a href="nosotros.html">Nosotros</a></li>
+        <li><a href="productos.html">Productos</a></li>
+        <li><a href="investigacion.html">Investigación</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="contenedor">
+        <div>
+          <span class="etiqueta">Proteína en polvo · Hecho en México</span>
+          <h1>Proteína con sabor <span>a México</span></h1>
+          <p>ProteBros es proteína en polvo con sabores inspirados en los postres y panes que nos gustan: arroz con leche, concha de vainilla, churro y rol de canela. Para complementar tu alimentación de forma práctica y rica.</p>
+          <a class="boton" href="productos.html">Ver productos y precios</a>
+          <a class="boton secundario" href="#comercial">Ver comercial</a>
+        </div>
+        <figure>
+          <img src="img/batido.svg" alt="Vaso mezclador con batido de proteína junto a un bote ProteBros" width="800" height="450">
+          <figcaption>Figura 1. Un batido ProteBros se prepara en segundos.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="alterna">
+      <div class="contenedor centrado">
+        <h2>Conoce los <span>sabores</span></h2>
+        <p class="intro">Cuatro sabores que no vas a encontrar en otra marca, en cuatro presentaciones.</p>
+        <div class="carrusel" aria-roledescription="carrusel" aria-label="Sabores y presentaciones de ProteBros">
+          <div class="carrusel-ventana">
+            <div class="carrusel-pista">
+              <figure class="diapositiva">
+                <img src="img/sabor-churro.svg" alt="Bote de proteína ProteBros sabor churro" width="800" height="450">
+                <figcaption>Figura 2. Sabor churro: azúcar y canela en cada porción.</figcaption>
+              </figure>
+              <figure class="diapositiva">
+                <img src="img/sabor-concha.svg" alt="Bote de proteína ProteBros sabor concha de vainilla" width="800" height="450">
+                <figcaption>Figura 3. Sabor concha de vainilla: el pan dulce de siempre.</figcaption>
+              </figure>
+              <figure class="diapositiva">
+                <img src="img/sabor-arroz.svg" alt="Bote de proteína ProteBros sabor arroz con leche" width="800" height="450">
+                <figcaption>Figura 4. Sabor arroz con leche: el postre de la abuela.</figcaption>
+              </figure>
+              <figure class="diapositiva">
+                <img src="img/sabor-rol.svg" alt="Bote de proteína ProteBros sabor rol de canela" width="800" height="450">
+                <figcaption>Figura 5. Sabor rol de canela: canela y glaseado.</figcaption>
+              </figure>
+              <figure class="diapositiva">
+                <img src="img/presentaciones.svg" alt="Presentaciones de ProteBros: muestra, 300 g, 500 g y 1 kg" width="800" height="450">
+                <figcaption>Figura 6. Cuatro presentaciones para cada presupuesto.</figcaption>
+              </figure>
+              <figure class="diapositiva">
+                <img src="img/batido.svg" alt="Vaso mezclador con batido de proteína junto a un bote ProteBros" width="800" height="450">
+                <figcaption>Figura 7. Se prepara en segundos con agua o leche.</figcaption>
+              </figure>
+            </div>
+          </div>
+          <button type="button" class="carrusel-boton carrusel-anterior" aria-label="Imagen anterior">&#10094;</button>
+          <button type="button" class="carrusel-boton carrusel-siguiente" aria-label="Imagen siguiente">&#10095;</button>
+          <div class="carrusel-puntos"></div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="contenedor">
+        <h2>¿Por qué <span>ProteBros</span>?</h2>
+        <p class="intro">Nuestra propuesta combina variedad, calidad y una presentación moderna.</p>
+        <div class="rejilla">
+          <article class="tarjeta"><div class="icono">1</div><h3>Sabores diferentes</h3><p>Inspirados en postres y panes mexicanos que todos conocemos.</p></article>
+          <article class="tarjeta"><div class="icono">2</div><h3>Información clara</h3><p>Etiquetas con ingredientes, contenido nutricional y modo de uso.</p></article>
+          <article class="tarjeta"><div class="icono">3</div><h3>Para cada presupuesto</h3><p>Desde una muestra individual hasta el bote de 1 kg.</p></article>
+          <article class="tarjeta"><div class="icono">4</div><h3>Imagen juvenil</h3><p>Una marca pensada para jóvenes y adultos que entrenan.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="comercial" class="alterna">
+      <div class="contenedor centrado">
+        <h2>Nuestro <span>comercial</span></h2>
+        <p class="intro">Conoce ProteBros en un minuto.</p>
+        <figure class="video">
+          <div class="video-marco">
+            <video controls preload="metadata" poster="video/portada.jpg" playsinline>
+              <source src="video/comercial.mp4" type="video/mp4">
+              Tu navegador no puede reproducir el video.
+            </video>
+          </div>
+          <figcaption>Figura 8. Comercial publicitario de ProteBros.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section>
+      <div class="contenedor centrado">
+        <h2>Encuentra tu <span>sabor</span></h2>
+        <p class="intro">Revisa los cuatro sabores, sus presentaciones y precios.</p>
+        <a class="boton" href="productos.html">Ver productos</a>
+        <a class="boton secundario" href="contacto.html">Hacer un pedido</a>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="sitio">
+    <div class="contenedor">
+      <div>
+        <strong>ProteBros</strong>
+        <p>Proteína, sabor y calidad en cada porción.</p>
+        <p>Empresa ficticia creada con fines educativos.</p>
+      </div>
+      <div>
+        <strong>Mapa del sitio</strong>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="nosotros.html">Nosotros</a></li>
+          <li><a href="productos.html">Productos</a></li>
+          <li><a href="investigacion.html">Investigación</a></li>
+          <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+      </div>
+      <div>
+        <strong>Contacto</strong>
+        <p>Acapulco, Guerrero, México</p>
+        <p>Instagram y TikTok: @protebros</p>
+      </div>
+      <p class="legal">Este producto no es un medicamento. El consumo de este producto es responsabilidad de quien lo recomienda y de quien lo usa. Complementa, no sustituye, una alimentación equilibrada.<br>Proyecto del Tercer Parcial &middot; STEAM III y Emprendimiento III &middot; Agosto&ndash;Diciembre 2026 &middot; Sección Preparatoria</p>
+    </div>
+  </footer>
+  <script src="js/carrusel.js"></script>
+</body>
+</html>

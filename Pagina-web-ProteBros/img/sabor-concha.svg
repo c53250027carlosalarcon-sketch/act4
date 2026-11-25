@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Bote de proteína ProteBros sabor Concha de vainilla">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fde9c4"/><stop offset="1" stop-color="#e8c48a"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#g)"/>
+  <g transform="translate(570 120)"><ellipse cx="80" cy="90" rx="110" ry="70" fill="#e8b46a"/><path d="M-20 70 Q80 -10 180 70 Q80 30 -20 70Z" fill="#fff4d6"/><path d="M0 60 Q80 10 160 60 M20 75 Q80 35 140 75 M80 25 V85 M40 40 Q60 70 50 90 M120 40 Q100 70 110 90" stroke="#e0c08a" stroke-width="6" fill="none"/></g>
+  
+  <g>
+    <ellipse cx="250" cy="406" rx="126.50000000000001" ry="18.400000000000002" fill="#000" opacity="0.25"/>
+    <rect x="129" y="64" width="242" height="42.00000000000001" rx="10" fill="#0d1210"/>
+    <rect x="135" y="100" width="230" height="300" rx="18.400000000000002" fill="#f4dcb0"/>
+    <rect x="135" y="154" width="230" height="186" fill="#fff6e3"/>
+    
+  <g transform="translate(250 190) scale(0.8846153846153846)">
+    <rect x="-46" y="-6" width="92" height="12" rx="6" fill="#c58a3a"/>
+    <rect x="-58" y="-22" width="12" height="44" rx="4" fill="#c58a3a"/>
+    <rect x="46" y="-22" width="12" height="44" rx="4" fill="#c58a3a"/>
+    <rect x="-70" y="-14" width="10" height="28" rx="4" fill="#c58a3a"/>
+    <rect x="60" y="-14" width="10" height="28" rx="4" fill="#c58a3a"/>
+  </g>
+    <text x="250" y="229" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="27.599999999999998" fill="#6b4a1f">PROTEBROS</text>
+    <text x="250" y="268" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="19.55" fill="#c58a3a">CONCHA</text>
+    <text x="250" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="19.55" fill="#c58a3a">DE VAINILLA</text>
+    <rect x="167.2" y="307" width="165.6" height="21.000000000000004" rx="10.500000000000002" fill="#6b4a1f"/>
+    <text x="250" y="322" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="11.959999999999999" fill="#fff6e3">PROTEÍNA EN POLVO</text>
+  </g>
+  <rect x="0" y="396" width="800" height="54" fill="#0d1210" opacity="0.82"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#ffffff">El pan dulce de siempre, ahora en proteína</text>
+</svg>

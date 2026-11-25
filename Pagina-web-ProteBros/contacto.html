@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Contacta a ProteBros para pedidos y comentarios.">
+  <title>Contacto | ProteBros</title>
+  <link rel="icon" type="image/svg+xml" href="img/logo.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <header class="sitio">
+    <div class="contenedor">
+      <a class="marca" href="index.html" aria-label="ProteBros, ir al inicio">
+        <img src="img/logo.svg" alt="Logotipo de ProteBros">
+        <span>PROTE<b>BROS</b></span>
+      </a>
+      <nav aria-label="Navegación principal">
+        <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="nosotros.html">Nosotros</a></li>
+        <li><a href="productos.html">Productos</a></li>
+        <li><a href="investigacion.html">Investigación</a></li>
+        <li><a href="contacto.html" class="activo" aria-current="page">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="titulo-pagina">
+      <div class="contenedor">
+        <h1>Contacto</h1>
+        <p>Haz tu pedido o déjanos tu opinión</p>
+      </div>
+    </div>
+
+    <section>
+      <div class="contenedor dos-columnas" style="align-items:start">
+        <div>
+          <h2>Escríbenos</h2>
+          <p class="intro">¿Quieres probar un sabor o hacer un pedido? Llena el formulario y te responderemos.</p>
+          <ul class="datos">
+            <li><strong>Ubicación</strong>Acapulco, Guerrero, México</li>
+            <li><strong>Redes sociales</strong>@protebros en Instagram y TikTok</li>
+            <li><strong>Puntos de venta</strong>Gimnasios, redes sociales y escuela</li>
+          </ul>
+        </div>
+        <form action="#" method="post" onsubmit="alert('¡Gracias! Este formulario es de demostración.'); return false;">
+          <label for="nombre">Nombre</label>
+          <input id="nombre" name="nombre" type="text" required>
+          <label for="correo">Correo electrónico</label>
+          <input id="correo" name="correo" type="email" required>
+          <label for="sabor">Sabor que te interesa</label>
+          <select id="sabor" name="sabor">
+            <option>Arroz con leche</option>
+            <option>Concha de vainilla</option>
+            <option>Churro</option>
+            <option>Rol de canela</option>
+          </select>
+          <label for="presentacion">Presentación</label>
+          <select id="presentacion" name="presentacion">
+            <option>Muestra individual</option>
+            <option>Envase de 300 g</option>
+            <option>Envase de 500 g</option>
+            <option>Envase de 1 kg</option>
+          </select>
+          <label for="mensaje">Mensaje</label>
+          <textarea id="mensaje" name="mensaje"></textarea>
+          <button class="boton" type="submit">Enviar</button>
+        </form>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="sitio">
+    <div class="contenedor">
+      <div>
+        <strong>ProteBros</strong>
+        <p>Proteína, sabor y calidad en cada porción.</p>
+        <p>Empresa ficticia creada con fines educativos.</p>
+      </div>
+      <div>
+        <strong>Mapa del sitio</strong>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="nosotros.html">Nosotros</a></li>
+          <li><a href="productos.html">Productos</a></li>
+          <li><a href="investigacion.html">Investigación</a></li>
+          <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+      </div>
+      <div>
+        <strong>Contacto</strong>
+        <p>Acapulco, Guerrero, México</p>
+        <p>Instagram y TikTok: @protebros</p>
+      </div>
+      <p class="legal">Este producto no es un medicamento. El consumo de este producto es responsabilidad de quien lo recomienda y de quien lo usa. Complementa, no sustituye, una alimentación equilibrada.<br>Proyecto del Tercer Parcial &middot; STEAM III y Emprendimiento III &middot; Agosto&ndash;Diciembre 2026 &middot; Sección Preparatoria</p>
+    </div>
+  </footer>
+</body>
+</html>
